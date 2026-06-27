@@ -1,0 +1,5 @@
+{
+  "name": "Internado Médico: El Desafío",
+  "description": "Un simulador gamificado para estudiantes de medicina en Perú, preparándolos para el internado con casos clínicos reales y rotaciones hospitalarias.",
+  "requestFramePermissions": ["microphone"]
+}
